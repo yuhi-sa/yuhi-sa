@@ -1,7 +1,3 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuhi-sa&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhi-sa" />
-</a>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yuhi-sa)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhi-sa)
