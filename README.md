@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhi-sa)
+![Visitor Count](https://komarev.com/ghpvc/?username=yuhi-sa&color=red)
