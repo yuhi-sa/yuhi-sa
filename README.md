@@ -3,6 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yuhi-sa/yuhi-sa)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yuhi-sa/yuhi-sa)
 ![GitHub top language](https://img.shields.io/github/languages/top/yuhi-sa/yuhi-sa)
+![GitHub language count](https://img.shields.io/github/languages/count/yuhi-sa/yuhi-sa)
 ## Hi there 👋🐧🐿
 - About me：[profile-lime.vercel.app](https://profile-lime.vercel.app)
 - Contact：[google form](https://docs.google.com/forms/d/e/1FAIpQLSdU2lizo_DhioQUFzlnf9YCmT-veZ-m4Hl8m1NDBRWSsQ2nIw/viewform?usp=sf_link)
