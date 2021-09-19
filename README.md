@@ -1,9 +1,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yuhi-sa&color=lightgrey)
-![GitHub last commit](https://img.shields.io/github/last-commit/yuhi-sa/yuhi-sa)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yuhi-sa/yuhi-sa)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yuhi-sa/yuhi-sa)
-![GitHub top language](https://img.shields.io/github/languages/top/yuhi-sa/yuhi-sa)
-![GitHub language count](https://img.shields.io/github/languages/count/yuhi-sa/yuhi-sa)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fprofile-lime.vercel.app)
+![GitHub followers](https://img.shields.io/github/followers/yuhi-sa?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/yuhi-sa?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yuhi_sa1192?style=social)
 ## Hi there 👋🐧🐿
 - About me：[profile-lime.vercel.app](https://profile-lime.vercel.app)
 - Contact：[google form](https://docs.google.com/forms/d/e/1FAIpQLSdU2lizo_DhioQUFzlnf9YCmT-veZ-m4Hl8m1NDBRWSsQ2nIw/viewform?usp=sf_link)
