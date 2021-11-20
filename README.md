@@ -1,7 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yuhi-sa&color=lightgrey)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fprofile-lime.vercel.app)
-![GitHub followers](https://img.shields.io/github/followers/yuhi-sa?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/yuhi-sa?style=social)
+![WebSite](https://img.shields.io/website?logo=Vercel&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttps%253A%252F%252Fprofile-nu-gold.vercel.app)
+![Blog](https://img.shields.io/website?label=blog&logo=bookStack&url=https%3A%2F%2Fyuhi-sa.github.io)
 ## Hi there 👋🐧🐿
 
 <img src="https://github.com/yuhi-sa/github_cards/blob/master/cards/lang.gif?raw=true" width="50%"><img src="https://github.com/yuhi-sa/github_cards/blob/master/cards/top.gif?raw=true" width="50%">
