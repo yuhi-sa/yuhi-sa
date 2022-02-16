@@ -5,6 +5,6 @@
 ## Hi there 👋🐧🐿
 - About：[profile-yuhi-sa.vercel.app](https://profile-yuhi-sa.vercel.app)
 - Blog：[yuhi-sa.github.io](https://yuhi-sa.github.io)
-- Mail：[elm-spelt07@icloud.com](mailto:elm-spelt07@icloud.com)
+- Contact：[forms.gle](https://forms.gle/jVEM3XQQ6jgRwEwv8)
 
 <a href ="https://github.com/yuhi-sa/github_cards"><img src="https://github.com/yuhi-sa/github_cards/blob/master/cards/lang.gif?raw=true" width="50%"><img src="https://github.com/yuhi-sa/github_cards/blob/master/cards/top.gif?raw=true" width="50%"></a>
